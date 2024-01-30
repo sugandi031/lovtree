@@ -52,6 +52,4 @@ function timeElapse(date){
 	}
 	seconds = Math.floor(seconds % 60);
 	seconds = (seconds + "").replace(/\.\d*/, "");
-	var result = " <span class=\"digit\"> I </span><span class=\"digit\">Love</span><span class=\"digit\">You</span><span class=\"digit\">So mucch</span>";
-	$("#clock").html(result);
 }
