@@ -10,6 +10,8 @@ var config = {
         "kamu jangan sedih yaaa, sini peluk dan cim dari aku yaa mwah mwah",
         "love you so mucchh ayang and i miss u so baadd",
         "maaf tidak pandai berkata kata cuman jujur ini isi hati aku",
+        "aku yakin dengan kamu dan aku akan berusaha selalu bersamamu",
+        "karena itu yg aku inginkan, sekarang dan selamanya",
         "your man, yudis",
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
