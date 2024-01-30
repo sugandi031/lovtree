@@ -6,7 +6,7 @@ var config = {
         "maafin aku ya aku belum bisa selalu deket kamu",
         "tapiiii aku bakal selalu berusaha ada buat kamu",
         "kapanpun dan dimanapun itu sayang",
-        "karena kamu segalanya buat aaku, you are my everyhing",
+        "karena kamu segalanya buat aaku, you are my everything",
         "kamu jangan sedih yaaa, sini peluk dan cim dari aku yaa mwah mwah",
         "love you so mucchh ayang and i miss u so baadd",
         "maaf tidak pandai berkata kata cuman jujur ini isi hati aku",
